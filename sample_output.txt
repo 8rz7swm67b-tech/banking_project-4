@@ -1,0 +1,25 @@
+Cash: 2 twenties, 1 ten, 0 fives, 3 ones = $53.00
+Check: #123456, My Bank, $100.00
+
+Checking account
+Cash deposit accepted: true
+Check deposit accepted: true
+Cash withdrawal accepted: true
+Check withdrawal accepted: false
+
+Checking balance: $1128.00
+Transaction history:
+2026-10-01 | Deposit | $53.00 | Cash
+2026-10-01 | Deposit | $100.00 | Check
+2026-10-02 | Withdrawal | $25.00 | Cash
+
+Savings account
+Cash deposit accepted: true
+Check deposit accepted: false
+Cash withdrawal accepted: true
+Check withdrawal accepted: false
+
+Savings balance: $528.00
+Transaction history:
+2026-10-01 | Deposit | $53.00 | Cash
+2026-10-02 | Withdrawal | $25.00 | Cash
